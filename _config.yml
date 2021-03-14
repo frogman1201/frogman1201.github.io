@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Leaps and Bounds
+url: https://frogman1201.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: frogman
 
 # Custom vars
 version: 3.0.0
